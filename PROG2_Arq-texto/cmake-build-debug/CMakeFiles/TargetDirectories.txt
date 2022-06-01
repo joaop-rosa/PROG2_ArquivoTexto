@@ -1,0 +1,3 @@
+C:/Users/jprag/Desktop/PROG2_Arq-texto/cmake-build-debug/CMakeFiles/PROG2_Arq_texto.dir
+C:/Users/jprag/Desktop/PROG2_Arq-texto/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jprag/Desktop/PROG2_Arq-texto/cmake-build-debug/CMakeFiles/rebuild_cache.dir
